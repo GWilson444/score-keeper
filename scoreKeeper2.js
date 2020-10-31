@@ -1,3 +1,5 @@
+// This JS file has been refactored
+
 const p1 = {
     score: 0,
     button: document.querySelector('#p1Button'),
